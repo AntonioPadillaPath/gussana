@@ -195,6 +195,14 @@ html
     min-width: 50px;
 }
 
+.GPS
+{
+    border-radius: 15px;
+    width: 100%;
+}
+
+
+
 .seccion3
 {
     justify-content: center;

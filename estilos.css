@@ -192,7 +192,7 @@ html
 {
     border-radius: 15px;
     width: 65%;
-    min-width: 50px;
+    min-width: 300px;
 }
 
 .GPS
@@ -215,6 +215,11 @@ html
     padding: 0 8%;
     padding-top: 12%;
     color: rgb(6, 53, 59);
+}
+
+.mainSeccion3 .seccion3 h2
+{
+    color: rgb(32, 31, 31);
 }
 
 .seccion4
@@ -264,7 +269,7 @@ div div h1
 {
     width: 100%;
     min-height: 70vh;
-    background-image: url(imagenes/Candelabro.jpeg);
+    background-image: url(imagenes/WhiteWall.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -275,12 +280,14 @@ div div h1
 {
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagenes/azulMarinoal100.png);
+    background-image: url(imagenes/black1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
 }
+
+
 
 .textoImagenes
 {

@@ -154,6 +154,14 @@
     text-decoration: none;
 }
 
+.carouselPandemia
+{
+    width: 40%;
+    min-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*-----------------------------------------------------------------------*/
 
 /*Efecto scroll*/
@@ -586,6 +594,14 @@ textarea
 
 /*
 
-Agregar un desvanecimiento al fondo de inicio
+Desvanecer secciones (opcional)
+Un color más claro en el fondo del logo al inicio (opcional)
+Cambiar el color de hover en el dropdown
+agregar paddings a los miembros del equipo
+Poner un carousel con las otras fotos para rellenar el espacio que queda (opcional)
+Nombres en las fotos del equipo
+Poner un color verde en el fondo de la leyenda de la pandemia
+Redondear border de las fotos de productos y de integrantes
+Revisar todos los id's y enlaces para que no redireccione a M
 
 */

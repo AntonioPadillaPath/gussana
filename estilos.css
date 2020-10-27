@@ -4,7 +4,7 @@
 {
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagenes/baber.jpeg);
+    background-image: url(imagenes/barber.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -293,7 +293,7 @@ div div h1
 {
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagenes/black1.jpg);
+    background-image: url(imagenes/blackTools.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

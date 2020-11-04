@@ -426,7 +426,7 @@ div div h1
 {
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagenes/140al100.png);
+    background-image: url(imagenes/WhiteWall.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -460,15 +460,16 @@ div div h1
 
 .galeria3
 {
-    background-color: rgba(167, 11, 11, 0.548);
+    background-color: rgba(167, 11, 11, 0.705);
     padding: 1%;
     border-radius: 10px 10px 0 0;
 }
 
 .galeriaItem3
 {
-    color: rgb(92, 3, 3);
-    font-family: "Century Gothic";
+    color: rgb(0, 0, 0);
+    font-family: "Rajdhani";
+    font-size: 19px;
 }
 
 .galeriaItem3:hover
@@ -479,7 +480,7 @@ div div h1
 .titulo
 {
     color: rgb(6, 10, 59);
-    font-family: "Century Gothic";
+    font-family: "Orbitron";
     text-align: center;
 }
 
@@ -487,6 +488,13 @@ div div h1
 {
     background-color: rgba(255, 255, 255, 0);
     margin: 2% 0;
+}
+
+.ignite
+{
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
 }
 
 .itemIMG
@@ -498,7 +506,13 @@ div div h1
 
 .medidas
 {
-    font-family: "Open Sans Condensed";
+    font-family: "Rajdhani";
+    text-align: center;
+}
+
+.medidas h6
+{
+    font-size: 18px;
 }
 
 .medidasIndividuales
@@ -608,6 +622,7 @@ textarea
 
 /*
 
+Foto de inicio menos pixeleada
 Desvanecer secciones (opcional)
 Un color más claro en el fondo del logo al inicio (opcional)
 Revisar todos los id's y enlaces para que no redireccione a M

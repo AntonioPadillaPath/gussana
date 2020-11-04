@@ -69,7 +69,8 @@
 
 .navg a:hover
 {
-    background-color: rgba(255, 2, 200, 0.788);
+    background-color:rgba(197, 26, 37, 0.795);
+    color: rgb(255, 255, 255)!important;
 }
 
 .text-header
@@ -100,21 +101,29 @@
     text-decoration: none;
 }
 
+.TeamContenedores img
+{
+    padding: 10px;
+    border-radius: 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*Edición de items del dropdown por separado*/
 .itemsDropdown
 {
-    font-family: "Rajdhani";
+    font-family: "Orbitron";
     color: black;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: normal;
     text-align: left;
 }
 
 .itemsDropdown:hover
 {
-    font-family: "Rajdhani";
-    color: rgba(255, 2, 200, 0.788);
-    font-size: 18px;
+    font-family: "Orbitron";
+    color: rgb(197, 26, 37);
+    font-size: 15px;
     font-weight: normal;
     text-align: left;
     font-weight: bold;
@@ -184,6 +193,11 @@ html
 {
     font-size: 40px;
     padding-top: 10%;
+}
+
+#pandemic .seccion1 h1, #pandemic .seccion1 p
+{
+    background-color: rgb(128, 255, 0);
 }
 
 .seccion2
@@ -596,12 +610,6 @@ textarea
 
 Desvanecer secciones (opcional)
 Un color más claro en el fondo del logo al inicio (opcional)
-Cambiar el color de hover en el dropdown
-agregar paddings a los miembros del equipo
-Poner un carousel con las otras fotos para rellenar el espacio que queda (opcional)
-Nombres en las fotos del equipo
-Poner un color verde en el fondo de la leyenda de la pandemia
-Redondear border de las fotos de productos y de integrantes
 Revisar todos los id's y enlaces para que no redireccione a M
 
 */
